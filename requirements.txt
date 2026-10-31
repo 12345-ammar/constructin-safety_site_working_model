@@ -6,3 +6,5 @@ opencv-python
 pillow
 numpy
 python-multipart
+opencv-python-headless
+torch
